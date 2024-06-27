@@ -1,0 +1,85 @@
+[
+  {
+    "title": "Memento",
+    "directedBy": "Christopher Nolan",
+    "releaseYear": 2000,
+    "runtime": 113,
+    "genres": [ "Mystery", "Thriller"],
+    "screenings":
+    [
+      {
+        "hall": "1",
+        "startTime": "2024-07-12T17:30:00.00000"
+      },
+      {
+        "hall": "3",
+        "startTime": "2024-07-12T19:30:00.00000"
+      }
+    ]
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "directedBy": "Frank Darabont",
+    "releaseYear": 1994,
+    "runtime": 142,
+    "genres": [
+      "Drama"
+    ],
+    "screenings": [
+      {
+        "hall": "2",
+        "startTime": "2024-07-12T17:30:00.00000"
+      },
+      {
+        "hall": "4",
+        "startTime": "2024-07-12T19:30:00.00000"
+      }
+    ]
+  },
+  {
+    "title": "The Godfather",
+    "directedBy": "Francis Ford Coppola",
+    "releaseYear": 1972,
+    "runtime": 175,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "screenings": [
+      {
+        "hall": "2",
+        "startTime": "2024-07-13T20:00:00.00000"
+      },
+      {
+        "hall": "4",
+        "startTime": "2024-07-14T20:00:00.00000"
+      }
+    ]
+  },
+  {
+    "title": "The Dark Knight",
+    "directedBy": "Christopher Nolan",
+    "releaseYear": 2008,
+    "runtime": 152,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "screenings": [
+      {
+        "hall": "1",
+        "startTime": "2024-07-10T18:00:00.00000"
+      },
+      {
+        "hall": "2",
+        "startTime": "2024-07-11T19:00:00.00000"
+      },
+      {
+        "hall": "3",
+        "startTime": "2024-07-12T20:00:00.00000"
+      }
+    ]
+  }
+]
